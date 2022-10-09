@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "coral-xyz/anchor",
+    "stargazers_count": 2503,
+    "open_issues_count": 578,
+    "forks_count": 888
+  },
+  {
+    "full_name": "ziglang/zig",
+    "stargazers_count": 17946,
+    "open_issues_count": 2407,
+    "forks_count": 1344
+  },
+  {
+    "full_name": "oven-sh/bun",
+    "stargazers_count": 34763,
+    "open_issues_count": 385,
+    "forks_count": 810
+  },
+  {
+    "full_name": "carbon-language/carbon-lang",
+    "stargazers_count": 28061,
+    "open_issues_count": 210,
+    "forks_count": 1170
+  },
+  {
+    "full_name": "folke/tokyonight.nvim",
+    "stargazers_count": 2296,
+    "open_issues_count": 29,
+    "forks_count": 176
+  },
+  {
+    "full_name": "bevyengine/bevy",
+    "stargazers_count": 19031,
+    "open_issues_count": 1320,
+    "forks_count": 1872
+  },
+  {
+    "full_name": "dotnet/roslyn",
+    "stargazers_count": 16499,
+    "open_issues_count": 9510,
+    "forks_count": 3719
+  },
+  {
+    "full_name": "tauri-apps/tauri",
+    "stargazers_count": 51972,
+    "open_issues_count": 237,
+    "forks_count": 1323
+  },
+  {
+    "full_name": "o3de/o3de",
+    "stargazers_count": 5408,
+    "open_issues_count": 2723,
+    "forks_count": 1650
+  },
+  {
+    "full_name": "forem/forem",
+    "stargazers_count": 19728,
+    "open_issues_count": 514,
+    "forks_count": 3508
+  },
+  {
+    "full_name": "cli/cli",
+    "stargazers_count": 30080,
+    "open_issues_count": 417,
+    "forks_count": 4240
+  },
+  {
+    "full_name": "meteor/meteor",
+    "stargazers_count": 43066,
+    "open_issues_count": 179,
+    "forks_count": 5214
+  },
+  {
+    "full_name": "alacritty/alacritty",
+    "stargazers_count": 42251,
+    "open_issues_count": 311,
+    "forks_count": 2461
+  },
+  {
+    "full_name": "remacs/remacs",
+    "stargazers_count": 4522,
+    "open_issues_count": 139,
+    "forks_count": 331
+  },
+  {
+    "full_name": "doomemacs/doomemacs",
+    "stargazers_count": 15172,
+    "open_issues_count": 574,
+    "forks_count": 2777
+  },
+  {
+    "full_name": "security-prince/Application-Security-Engineer-Interview-Questions",
+    "stargazers_count": 461,
+    "open_issues_count": 0,
+    "forks_count": 80
+  },
+  {
+    "full_name": "denoland/deno",
+    "stargazers_count": 85723,
+    "open_issues_count": 1032,
+    "forks_count": 4631
+  },
+  {
+    "full_name": "microsoft/windows-rs",
+    "stargazers_count": 7281,
+    "open_issues_count": 29,
+    "forks_count": 297
+  },
+  {
+    "full_name": "BasioMeusPuga/Lector",
+    "stargazers_count": 1395,
+    "open_issues_count": 42,
+    "forks_count": 193
+  },
+  {
+    "full_name": "elastic/elasticsearch",
+    "stargazers_count": 61396,
+    "open_issues_count": 3990,
+    "forks_count": 22303
+  },
+  {
+    "full_name": "spring-projects/spring-framework",
+    "stargazers_count": 49329,
+    "open_issues_count": 1392,
+    "forks_count": 34810
+  },
+  {
+    "full_name": "spring-projects/spring-boot",
+    "stargazers_count": 63496,
+    "open_issues_count": 568,
+    "forks_count": 37321
+  },
+  {
+    "full_name": "dotnet/efcore",
+    "stargazers_count": 11780,
+    "open_issues_count": 1686,
+    "forks_count": 2824
+  },
+  {
+    "full_name": "dotnet/aspnetcore",
+    "stargazers_count": 29743,
+    "open_issues_count": 2358,
+    "forks_count": 8327
+  },
+  {
+    "full_name": "stride3d/stride",
+    "stargazers_count": 4146,
+    "open_issues_count": 427,
+    "forks_count": 700
+  },
+  {
+    "full_name": "gchq/CyberChef",
+    "stargazers_count": 18978,
+    "open_issues_count": 320,
+    "forks_count": 2262
+  },
+  {
+    "full_name": "jonhoo/flurry",
+    "stargazers_count": 339,
+    "open_issues_count": 16,
+    "forks_count": 35
+  },
+  {
+    "full_name": "activecm/rita",
+    "stargazers_count": 2007,
+    "open_issues_count": 75,
+    "forks_count": 323
+  },
+  {
+    "full_name": "actix/actix-web",
+    "stargazers_count": 15390,
+    "open_issues_count": 144,
+    "forks_count": 1442
+  },
+  {
+    "full_name": "diesel-rs/diesel",
+    "stargazers_count": 9276,
+    "open_issues_count": 129,
+    "forks_count": 842
+  }
+]
