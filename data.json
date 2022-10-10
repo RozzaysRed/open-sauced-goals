@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "carbon-language/carbon-lang",
+    "stargazers_count": 28061,
+    "open_issues_count": 210,
+    "forks_count": 1170
+  },
+  {
     "full_name": "oven-sh/bun",
     "stargazers_count": 34763,
     "open_issues_count": 385,
@@ -10,6 +16,18 @@
     "stargazers_count": 2503,
     "open_issues_count": 578,
     "forks_count": 888
+  },
+  {
+    "full_name": "ziglang/zig",
+    "stargazers_count": 17946,
+    "open_issues_count": 2407,
+    "forks_count": 1345
+  },
+  {
+    "full_name": "ziglang/zig",
+    "stargazers_count": 17946,
+    "open_issues_count": 2407,
+    "forks_count": 1345
   },
   {
     "full_name": "ziglang/zig",
