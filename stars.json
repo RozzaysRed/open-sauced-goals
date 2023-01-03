@@ -1,117 +1,117 @@
 [
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 205,
-    "open_issues_count": 42,
-    "forks_count": 76
+    "stargazers_count": 206,
+    "open_issues_count": 43,
+    "forks_count": 77
   },
   {
     "full_name": "coral-xyz/anchor",
-    "stargazers_count": 2588,
-    "open_issues_count": 513,
-    "forks_count": 926
+    "stargazers_count": 2594,
+    "open_issues_count": 514,
+    "forks_count": 925
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 19087,
-    "open_issues_count": 2270,
-    "forks_count": 1449
+    "stargazers_count": 19140,
+    "open_issues_count": 2180,
+    "forks_count": 1455
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 37068,
-    "open_issues_count": 440,
-    "forks_count": 892
+    "stargazers_count": 37138,
+    "open_issues_count": 453,
+    "forks_count": 898
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 29189,
+    "stargazers_count": 29231,
     "open_issues_count": 167,
     "forks_count": 1231
   },
   {
     "full_name": "folke/tokyonight.nvim",
-    "stargazers_count": 2768,
+    "stargazers_count": 2790,
     "open_issues_count": 34,
     "forks_count": 206
   },
   {
     "full_name": "bevyengine/bevy",
-    "stargazers_count": 21019,
-    "open_issues_count": 1346,
-    "forks_count": 2077
+    "stargazers_count": 21072,
+    "open_issues_count": 1348,
+    "forks_count": 2082
   },
   {
     "full_name": "dotnet/roslyn",
-    "stargazers_count": 16865,
-    "open_issues_count": 8678,
+    "stargazers_count": 16872,
+    "open_issues_count": 8689,
     "forks_count": 3792
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 56102,
-    "open_issues_count": 309,
-    "forks_count": 1464
+    "stargazers_count": 56273,
+    "open_issues_count": 307,
+    "forks_count": 1470
   },
   {
     "full_name": "o3de/o3de",
-    "stargazers_count": 5790,
-    "open_issues_count": 2973,
-    "forks_count": 1752
+    "stargazers_count": 5803,
+    "open_issues_count": 2978,
+    "forks_count": 1755
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 20060,
-    "open_issues_count": 556,
+    "stargazers_count": 20069,
+    "open_issues_count": 559,
     "forks_count": 3579
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30830,
-    "open_issues_count": 401,
-    "forks_count": 4525
+    "stargazers_count": 30854,
+    "open_issues_count": 403,
+    "forks_count": 4537
   },
   {
     "full_name": "meteor/meteor",
-    "stargazers_count": 43188,
-    "open_issues_count": 214,
-    "forks_count": 5229
+    "stargazers_count": 43192,
+    "open_issues_count": 220,
+    "forks_count": 5232
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 43748,
-    "open_issues_count": 315,
-    "forks_count": 2593
+    "stargazers_count": 43799,
+    "open_issues_count": 313,
+    "forks_count": 2594
   },
   {
     "full_name": "remacs/remacs",
-    "stargazers_count": 4536,
+    "stargazers_count": 4537,
     "open_issues_count": 139,
     "forks_count": 328
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15698,
-    "open_issues_count": 610,
-    "forks_count": 2859
+    "stargazers_count": 15716,
+    "open_issues_count": 614,
+    "forks_count": 2862
   },
   {
     "full_name": "security-prince/Application-Security-Engineer-Interview-Questions",
-    "stargazers_count": 482,
+    "stargazers_count": 484,
     "open_issues_count": 0,
-    "forks_count": 85
+    "forks_count": 87
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 87027,
-    "open_issues_count": 1116,
-    "forks_count": 4687
+    "stargazers_count": 87062,
+    "open_issues_count": 1133,
+    "forks_count": 4688
   },
   {
     "full_name": "microsoft/windows-rs",
-    "stargazers_count": 7668,
-    "open_issues_count": 35,
-    "forks_count": 327
+    "stargazers_count": 7690,
+    "open_issues_count": 38,
+    "forks_count": 328
   },
   {
     "full_name": "BasioMeusPuga/Lector",
@@ -121,45 +121,45 @@
   },
   {
     "full_name": "elastic/elasticsearch",
-    "stargazers_count": 62275,
-    "open_issues_count": 4042,
-    "forks_count": 22576
+    "stargazers_count": 62299,
+    "open_issues_count": 4049,
+    "forks_count": 22588
   },
   {
     "full_name": "spring-projects/spring-framework",
-    "stargazers_count": 50273,
-    "open_issues_count": 1485,
-    "forks_count": 35254
+    "stargazers_count": 50288,
+    "open_issues_count": 1487,
+    "forks_count": 35267
   },
   {
     "full_name": "spring-projects/spring-boot",
-    "stargazers_count": 64843,
-    "open_issues_count": 594,
-    "forks_count": 37745
+    "stargazers_count": 64881,
+    "open_issues_count": 599,
+    "forks_count": 37753
   },
   {
     "full_name": "dotnet/efcore",
-    "stargazers_count": 12030,
-    "open_issues_count": 1746,
+    "stargazers_count": 12041,
+    "open_issues_count": 1753,
     "forks_count": 2866
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 30460,
-    "open_issues_count": 2432,
-    "forks_count": 8624
+    "stargazers_count": 30485,
+    "open_issues_count": 2439,
+    "forks_count": 8630
   },
   {
     "full_name": "stride3d/stride",
-    "stargazers_count": 4255,
-    "open_issues_count": 438,
-    "forks_count": 724
+    "stargazers_count": 4259,
+    "open_issues_count": 437,
+    "forks_count": 726
   },
   {
     "full_name": "gchq/CyberChef",
-    "stargazers_count": 19802,
-    "open_issues_count": 321,
-    "forks_count": 2347
+    "stargazers_count": 19849,
+    "open_issues_count": 322,
+    "forks_count": 2350
   },
   {
     "full_name": "jonhoo/flurry",
@@ -170,13 +170,13 @@
   {
     "full_name": "activecm/rita",
     "stargazers_count": 2061,
-    "open_issues_count": 76,
+    "open_issues_count": 77,
     "forks_count": 327
   },
   {
     "full_name": "actix/actix-web",
-    "stargazers_count": 16193,
-    "open_issues_count": 149,
-    "forks_count": 1476
+    "stargazers_count": 16235,
+    "open_issues_count": 151,
+    "forks_count": 1477
   }
 ]
